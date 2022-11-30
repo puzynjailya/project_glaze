@@ -1,0 +1,5 @@
+.env
+poetry.lock
+pyproject.toml
+/templates
+/venv/
